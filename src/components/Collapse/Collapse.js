@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 import './collapse.css';
 import collapseHTML from './collapse.html';
 

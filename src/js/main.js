@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 import Collapse from '../components/Collapse/Collapse';
 // import CallbackChat from '../components/CallbackChat/CallbackChat';
 // import Liker from '../components/Liker/Liker';
