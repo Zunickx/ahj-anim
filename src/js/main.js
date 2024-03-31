@@ -1,6 +1,6 @@
 import Collapse from '../components/Collapse/Collapse';
-import CallbackChat from '../components/CallbackChat/CallbackChat';
-import Liker from '../components/Liker/Liker';
+// import CallbackChat from '../components/CallbackChat/CallbackChat';
+// import Liker from '../components/Liker/Liker';
 
 // Если в качесте параметра в конструктор передать селектор или элемент,
 // то виджет по умолчанию будет добавлен в конец этого элемента через append.
@@ -17,9 +17,9 @@ widgetCollapse2.setText('Lorem ipsum dolor sit amet, consectetur adipisicing eli
 // Callback-Chat
 
 // eslint-disable-next-line no-unused-vars
-const callbackChat = new CallbackChat();
+// const callbackChat = new CallbackChat();
 
 // Liker
 
 // eslint-disable-next-line no-unused-vars
-const liker = new Liker(contentEl);
+// const liker = new Liker(contentEl);
